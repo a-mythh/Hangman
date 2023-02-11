@@ -2,7 +2,7 @@
 
 Play and Enjoy Hangman in this fun python application.
 
-                                                            ##HANGMAN
+                                                            ## HANGMAN
 
                                                      ________________________
                                                     |    ________            |
